@@ -1,5 +1,5 @@
 ----- Desenvolvido por Arthur e Alexandre ---------------------
-
+------ novo nome------------------------
 math.randomseed (os.time())
 local  w, h = love.graphics.getDimensions ()
 local player = {} -- jogador
